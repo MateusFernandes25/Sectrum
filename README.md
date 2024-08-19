@@ -28,7 +28,9 @@ Before you begin, ensure you have met the following requirements:
 - Python 3.8 or higher
 - PyTorch
 - Hugging Face Transformers
-- QLoRA
+- Transformers
+- Tokenizer
+- Accelerate
 
 ### Installation
 
