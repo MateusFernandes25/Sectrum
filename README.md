@@ -35,4 +35,4 @@ Before you begin, ensure you have met the following requirements:
 Clone the repository:
 
 ```bash
-git clone [https://github.com/yourusername/information-security-chatbot.git](https://github.com/MateusFernandes25/Sectrum)
+git clone https://github.com/MateusFernandes25/Sectrum
